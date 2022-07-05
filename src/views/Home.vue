@@ -22,15 +22,10 @@
           <img src="@/assets/images/blob1.png" class="absolute" style="top:-36px;left:-8px;z-index:0"></img>
            <img src="@/assets/images/blob2.png" class="absolute" style="top:-36px;right:-20px;z-index:0"></img>
 
-           <img src="@/assets/images/prettybad_wen.gif" class="absolute hidden lg:block" style="width:140px;top:-26px;right:70px;z-index:1"></img>
+           <img src="@/assets/images/doodlecrown.svg" class="absolute lg:block" style="width:140px;top:-26px;right:70px;z-index:1"></img>
 
-           <img src="@/assets/images/gm_mfers2.gif" class="absolute hidden lg:block" style="width:140px;top:86px;right:20px;z-index:0"></img>
+           <img src="@/assets/images/doodleteeth.svg" class="absolute lg:block" style="width:140px;top:86px;right:20px;z-index:0"></img>
          
-          <img src="@/assets/images/prettybad_wen.gif" class="absolute lg:hidden" style="width:100px;top:-26px;right:70px;z-index:1"></img>
-
-           <img src="@/assets/images/gm_mfers2.gif" class="absolute lg:hidden" style="width:100px;top:66px;right:20px;z-index:0"></img>
-         
-
 
        </div>
        <div class="pb-2">
@@ -38,12 +33,15 @@
          <div class=" grid grid-cols-2 px-8 md:px-24">
 
            <div>
-              <img src="@/assets/images/tech_focused.png" />
+              <img src="@/assets/images/FreeWallpaperArt.svg" />
+
+                <img src="@/assets/images/Download.svg" />
+
             </div>
 
 
             <div>
-              <img src="@/assets/images/learn_text.png" />
+             Wallpaper Example 
             </div>
 
 
