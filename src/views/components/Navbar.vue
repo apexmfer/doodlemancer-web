@@ -9,7 +9,7 @@
         
         </div>
         <router-link to="/" class='brand w-nav-brand w--current flex-grow inline text-xl text-gray-200 font-bold no-underline relative ' style="min-height:120px">
-           <img src="@/assets/images/apex_mfer.png" style="max-height:80px;z-index:10" class="mt-8 absolute" />
+           <img src="@/assets/images/doodlemancer_logo_stroke.svg" style="max-height:80px;z-index:10" class="mt-8 absolute px-6" />
         </router-link>
 
  

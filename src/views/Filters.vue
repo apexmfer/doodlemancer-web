@@ -43,7 +43,7 @@
          
          <div class=" grid grid-flow-col px-8 md:px-24">
          <div class="  p-4">
-             <img src="@/assets/images/punk1164_gif_filter.gif" />
+           
          </div>
          <div class=" ">
 
