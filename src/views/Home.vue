@@ -61,7 +61,7 @@
 
 
                 <div>
-                  <a href="https://www.youtube.com/channel/UCcvgl7v6iO6aK2K1ohJwrEw" target="_blank">
+                  <a href="https://youtube.doodlemancer.com" target="_blank">
                   <img src="@/assets/images/btn_youtube.png" />
                   </a>
                 </div>
