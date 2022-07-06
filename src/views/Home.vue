@@ -35,13 +35,22 @@
            <div>
               <img src="@/assets/images/FreeWallpaperArt.svg" />
 
-                <img src="@/assets/images/Download.svg" />
+              
+
+              <a href="/downloads/wallpaper1.png" target="_blank">
+              <div class="relative mt-4" style="height:80px;background-size: cover;" :style="{ backgroundImage: `url(${require('@/assets/images/btn_background.svg')})` }" > 
+                  <img class="absolute p-4"  src="@/assets/images/Download.svg" />
+              </div>
+              </a>
 
             </div>
 
 
-            <div>
-             Wallpaper Example 
+            <div class="p-8">
+        
+
+             <img src="@/assets/images/wallpapersample.jpg" />
+
             </div>
 
 
@@ -107,7 +116,7 @@
    </div>
 
 
-    <div class="section bg-primary border-b-4 border-black px-0 lg:px-1 py-2">
+    <div class="section hidden  bg-primary border-b-4 border-black px-0 lg:px-1 py-2">
        <div class="container margin-center bg-black pt-8" style="">
          
          <div class=" grid grid-cols-2 px-8 md:px-24">
