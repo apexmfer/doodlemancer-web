@@ -18,10 +18,8 @@
         <div class=" grid grid-flow-row text-center px-4">
 
           <h3 class="text-lg font-bold font-fun ">Community &amp; Social</h3>
-
-            <a href="https://discord.apexmfer.com" target="_blank" class="footer-link">Discord</a>
-         
-            <a href="https://youtube.apexmfer.com" target="_blank" class="footer-link">Youtube</a>
+ 
+            <a href="https://youtube.doodlemancer.com" target="_blank" class="footer-link">Youtube</a>
 
            
           

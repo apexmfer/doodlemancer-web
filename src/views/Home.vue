@@ -32,84 +32,64 @@
 
          <div class=" grid grid-cols-2 px-8 md:px-24">
 
-           <div>
-              <img src="@/assets/images/FreeWallpaperArt.svg" />
-
+           <div class="mb-8"> 
               
 
-              <a href="/downloads/wallpaper1.png" target="_blank">
-              <div class="relative mt-4" style="height:80px;background-size: cover;" :style="{ backgroundImage: `url(${require('@/assets/images/btn_background.svg')})` }" > 
-                  <img class="absolute p-4"  src="@/assets/images/Download.svg" />
-              </div>
+              <a href="https://www.etsy.com/shop/DoodlemancerArt?" target="_blank">
+                  <img src="@/assets/images/btn_shopmerch.png" />
               </a>
 
             </div>
+ 
+            
 
+                <div class="text-center">
+                  <a href="https://www.etsy.com/shop/DoodlemancerArt?" target="_blank">
+                     <img src="@/assets/images/toadzsheet1.png" style="max-width:200px; margin:0 auto;" />
+                  </a>
+                     
+                </div>
 
-            <div class="p-8">
-        
-
-             <img src="@/assets/images/wallpapersample.jpg" />
-
-            </div>
-
+ 
 
         </div>
 
        </div>
 
 
-
-        <div class="pb-16">
-
-            <div class=" grid grid-flow-col px-8 md:px-24">
-
-              <div>
-                
-                </div>
-
-
-                <div>
-                  <a href="https://youtube.doodlemancer.com" target="_blank">
-                  <img src="@/assets/images/btn_youtube.png" />
-                  </a>
-                </div>
-
-
-            </div>
-
-          </div>
-
+ 
 
 
      </div>
    </div>
 
-      <div class="section bg-primary border-b-4 border-black ">
+      <div class="section bg-primary border-b-4 border-black " style="min-height:460px">
 
 
-     <div class="container margin-center">
-        <div class=" grid grid-cols-2 px-8 md:px-24  py-8 lg:py-2">
+        <div class="container margin-center">
+            <div class=" grid grid-cols-2 px-8 md:px-24  py-8 lg:py-2">
 
-          <div class=" hidden lg:block ">
-                 <img src="@/assets/images/find_more_alpha.png"  class="margin-center"/>
-         </div>
-       
-         <div class="">
+              <div class="  ">
+                    <img src="@/assets/images/FreeWallpaperArtArrow.png"  class="margin-center"/>
+            </div>
+          
+            <div class="">
 
-              <div class=" margin-center block " style="width:300px">
-           <a href="https://discord.apexmfer.com" target="_blank">
-            <div class="bg-purple-600 hover:bg-purple-700 text-white p-4 rounded block lg:mt-24" >
-               <img src="@/assets/images/discord-icon.svg" width="40" height="40" class="inline " alt=""> 
-               <div class="text-md text-white inline pl-8">Join the Discord</div>
-               
-               </div>
-          </a>
+              
+                    <img class="m-8" src="@/assets/images/wallpapersample.jpg" />
+
+                  
+
+                  <a class="m-4" href="/downloads/wallpaper1.png" target="_blank">
+                
+                      <img class="absolute  "  src="@/assets/images/download_btn.png" style="max-width:400px" />
+    
+                  </a>   
+    
+
+            </div>
           </div>
-
-         </div>
-       </div>
-     </div>
+        </div>
 
 
 
