@@ -67,7 +67,7 @@
 
 
         <div class="container margin-center">
-            <div class=" grid grid-cols-2 px-8 md:px-24  py-8 lg:py-2">
+            <div class=" grid grid-cols-2 px-8 md:px-16  py-8 lg:py-2">
 
               <div class="  ">
                     <img src="@/assets/images/FreeWallpaperArtArrow.png"  class="margin-center"/>
@@ -75,14 +75,14 @@
           
             <div class="">
 
-              
-                    <img class="m-8" src="@/assets/images/wallpapersample.jpg" />
-
+                 <a class="m-4" href="/downloads/wallpaper1.png" target="_blank">
+                    <img class="my-8" src="@/assets/images/wallpapersample.jpg" />
+                  </a>   
                   
 
                   <a class="m-4" href="/downloads/wallpaper1.png" target="_blank">
                 
-                      <img class="absolute  "  src="@/assets/images/download_btn.png" style="max-width:400px" />
+                      <img class="absolute  hidden lg:block"  src="@/assets/images/download_btn.png" style="max-width:400px" />
     
                   </a>   
     
